@@ -169,3 +169,8 @@ Vou experimentar tecnologias, cometer erros, descobrir soluções e documentar o
 Este laboratório faz parte da minha jornada de aprendizado em **DevOps, Cloud Computing e infraestrutura**.
 
 A cada novo experimento, uma nova coisa para aprender. 🚀
+
+**Pablo Danilo**
+
+[GitHub](https://github.com/pdanilodev)
+
